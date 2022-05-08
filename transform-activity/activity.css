@@ -1,4 +1,5 @@
 main {
-    transform: skew(10deg, -10deg)
+    transform: skew(10deg, -10deg);
+    font-style: italic;
 }
 
